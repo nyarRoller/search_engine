@@ -1,0 +1,26 @@
+[
+    {
+        "battery": 3250,
+        "display": 6,
+        "gType": 2,
+        "name": "Iphone 11",
+        "price": 800,
+        "year": 2020
+    },
+    {
+        "battery": 3250,
+        "display": 6,
+        "gType": 2,
+        "name": "Iphone 12",
+        "price": 1000,
+        "year": 2021
+    },
+    {
+        "battery": 3250,
+        "display": 6,
+        "gType": 2,
+        "name": "Iphone 13",
+        "price": 1300,
+        "year": 2022
+    }
+]
